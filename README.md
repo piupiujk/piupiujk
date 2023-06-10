@@ -10,6 +10,8 @@ So far, I'm just learning, but I'm trying to put a lot of effort into achieving 
 * ✉️  You can contact me at [docs4p@yandex.ru](mailto:docs4p@yandex.ru)
 * 🧠  I'm learning Django
 
+CV - [Podgornov Alexander, Python Developer.pdf](https://github.com/piupiujk/piupiujk/files/11712301/Podgornov.Alexander.Python.Developer.pdf)
+
 ### Skills
 
 <p align="left">
