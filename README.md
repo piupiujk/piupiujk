@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A beginner backend developer from Russia
 ----------------------------------------
 
-So far, I'm just learning, but I'm trying to put a lot of effort into achieving my goal. I am studying in the first year of university. I try to do interesting projects
-
 * 🌍  I'm based in Russia, Chelyabinsk
 * ✉️  You can contact me at [docs4p@yandex.ru](mailto:docs4p@yandex.ru)
 * 🧠  I'm learning Django
