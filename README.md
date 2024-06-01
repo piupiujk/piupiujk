@@ -8,7 +8,7 @@ A beginner backend developer from Russia
 * ✉️  You can contact me at [docs4p@yandex.ru](mailto:docs4p@yandex.ru)
 * 🧠  I'm learning Django
 
-CV - [Podgornov Alexander, Python Developer.pdf](https://github.com/piupiujk/piupiujk/files/11712301/Podgornov.Alexander.Python.Developer.pdf)
+CV - [Podgornov Alexander, Python Developer.pdf](https://github.com/user-attachments/files/15520708/CV.pdf)
 
 ### Skills
 
